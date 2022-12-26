@@ -1,3 +1,3 @@
 FROM nginx
-ADD ./target/index.html /usr/share/nginx/html/index.html
+ADD .index.html /usr/share/nginx/html/index.html
 
